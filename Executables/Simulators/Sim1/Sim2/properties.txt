@@ -1,0 +1,8 @@
+LBIP=10.105.27.117
+LBPort=8080
+logFilePath= C://Dev/Moeed/Simulator_C_Properties_FIle.txt
+ClientStartRange=60000
+SleepTime=25000
+TotalClients=25000
+senderID=0
+TotalServers=2

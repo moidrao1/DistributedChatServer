@@ -1,0 +1,10 @@
+LBIP=10.105.18.72
+LBPort=8080
+ServerIP=10.105.18.72
+ServerPort=9001
+logFilePath= C://Dev/Moeed/ChatClient_C_Properties_FIle.txt
+ClientStartRange=90000
+SleepTime=10
+TotalClients=1
+senderID=95001
+TotalServers=1

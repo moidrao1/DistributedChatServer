@@ -1,0 +1,12 @@
+ServerName=208
+ServerIP=10.105.27.123
+ServerPort=8009
+LBIP=10.105.27.117
+LBPort=8090
+logFilePath= C://Dev/Moeed/ChatServer
+logExFilePath=C://Dev/Moeed/ChatServer
+logFileName=Server22_Info_FIle
+logExFileName=Server22_Ex_Logs
+ConnectionBufferSize=40000
+forServerPort=9015
+ClientStartRange=0

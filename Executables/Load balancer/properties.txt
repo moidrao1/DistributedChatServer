@@ -1,0 +1,8 @@
+ServerName= LoadBalancer
+ServerIP= Localhost
+ServerPort= 8090
+ClientPort=8080
+totalNoOfServers=2
+loadbuffer=12000
+logFilePath= C://Dev/Moeed/LB/LoadBalancer_Properties_FIle.txt
+ConnectionBufferSize=35000

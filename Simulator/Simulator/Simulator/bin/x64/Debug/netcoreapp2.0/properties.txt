@@ -1,8 +1,0 @@
-LBIP=10.105.18.72
-LBPort=8080
-logFilePath= D://Server_C_Properties_FIle.txt
-ClientStartRange=40001
-SleepTime=500
-TotalClients=10000
-senderID=0
-TotalServers=2

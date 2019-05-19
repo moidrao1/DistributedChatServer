@@ -1,0 +1,12 @@
+ServerName=202
+ServerIP=10.105.18.72
+ServerPort=8009
+LBIP=10.105.18.72
+LBPort=8090
+logFilePath= D://
+logExFilePath=D://
+logFileName=Server22_Info_FIle
+logExFileName=Server22_Ex_Logs
+ConnectionBufferSize=30000
+forServerPort=9015
+ClientStartRange=0

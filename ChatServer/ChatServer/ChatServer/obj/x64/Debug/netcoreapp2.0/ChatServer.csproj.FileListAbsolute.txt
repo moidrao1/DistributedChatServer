@@ -1,0 +1,21 @@
+D:\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.deps.json
+D:\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.runtimeconfig.json
+D:\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.runtimeconfig.dev.json
+D:\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.dll
+D:\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.pdb
+D:\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.csproj.CoreCompileInputs.cache
+D:\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.AssemblyInfoInputs.cache
+D:\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.AssemblyInfo.cs
+D:\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.dll
+D:\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.pdb
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.deps.json
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.runtimeconfig.json
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.runtimeconfig.dev.json
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.dll
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\bin\x64\Debug\netcoreapp2.0\ChatServer.pdb
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.csprojAssemblyReference.cache
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.csproj.CoreCompileInputs.cache
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.AssemblyInfoInputs.cache
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.AssemblyInfo.cs
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.dll
+D:\Distributed Chat Server Executables\ChatServer\ChatServer\ChatServer\obj\x64\Debug\netcoreapp2.0\ChatServer.pdb

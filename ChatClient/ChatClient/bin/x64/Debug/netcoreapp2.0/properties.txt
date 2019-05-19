@@ -1,0 +1,10 @@
+LBIP=10.105.18.72
+LBPort=8080
+ServerIP=10.105.18.72
+ServerPort=8009
+logFilePath=D://Server_C_Properties_FIle.txt
+ClientStartRange=15000
+SleepTime=10
+TotalClients=1
+senderID=16001
+TotalServers=1

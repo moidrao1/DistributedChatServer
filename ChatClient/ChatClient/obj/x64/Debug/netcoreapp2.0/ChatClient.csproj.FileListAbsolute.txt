@@ -1,0 +1,21 @@
+D:\ChatClient\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.deps.json
+D:\ChatClient\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.runtimeconfig.json
+D:\ChatClient\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.runtimeconfig.dev.json
+D:\ChatClient\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.dll
+D:\ChatClient\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.pdb
+D:\ChatClient\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.csproj.CoreCompileInputs.cache
+D:\ChatClient\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.AssemblyInfoInputs.cache
+D:\ChatClient\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.AssemblyInfo.cs
+D:\ChatClient\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.dll
+D:\ChatClient\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.pdb
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.deps.json
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.runtimeconfig.json
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.runtimeconfig.dev.json
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.dll
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\bin\x64\Debug\netcoreapp2.0\ChatClient.pdb
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.csprojAssemblyReference.cache
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.csproj.CoreCompileInputs.cache
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.AssemblyInfoInputs.cache
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.AssemblyInfo.cs
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.dll
+D:\Distributed Chat Server Executables\Chat Client Code\ChatClient\ChatClient\obj\x64\Debug\netcoreapp2.0\ChatClient.pdb

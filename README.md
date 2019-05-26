@@ -1,5 +1,5 @@
 # Distributed Chat Server
-Distributed Chat Server in C# using TCP Protocol.
+Distributed Chat Server in C#
 
 This is a source code of distributed chat server developed in C#.
 
